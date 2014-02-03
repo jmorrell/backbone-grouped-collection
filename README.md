@@ -1,5 +1,10 @@
 # backbone-grouped-collection
 
+# THIS IS A WIP
+
+Eventually this will be rolled into [Backbone.Obscura](https://github.com/jmorrell/backbone.obscura) but it's not ready yet.
+
+
 [![Build Status](https://secure.travis-ci.org/jmorrell/backbone-grouped-collection.png?branch=master)](http://travis-ci.org/user/backbone-grouped-collection)
 
 Create a read-only grouped version of a backbone collection that stays in sync.
